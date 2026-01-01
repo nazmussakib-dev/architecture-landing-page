@@ -1,5 +1,3 @@
----
-
 # 🏛️ Architecture Landing Page
 
 A modern, responsive **architecture firm landing page** designed to showcase clean UI, strong visual hierarchy, and professional layout techniques using **only HTML and CSS**.
@@ -8,7 +6,6 @@ A modern, responsive **architecture firm landing page** designed to showcase cle
 
 👉 https://nazmussakib-dev.github.io/architecture-landing-page/
 
----
 
 ## ✨ Features
 
@@ -19,8 +16,6 @@ A modern, responsive **architecture firm landing page** designed to showcase cle
 - 🔤 Google Fonts integration (Work Sans)
 - 🚀 Optimized for readability and scalability
 
----
-
 ## 🛠️ Built With
 
 - **HTML5**
@@ -29,8 +24,6 @@ A modern, responsive **architecture firm landing page** designed to showcase cle
     - Grid
     - Media Queries
 - **Google Fonts**
-
----
 
 ## 📂 Project Structure
 
@@ -51,8 +44,6 @@ architecture-landing-page/
 
 ```
 
----
-
 ## 🎯 What I Learned From This Project
 
 - Building responsive layouts from scratch without frameworks
@@ -61,14 +52,9 @@ architecture-landing-page/
 - Writing scalable and reusable CSS
 - Structuring a real-world landing page layout
 
----
-
 ## 📸 Preview
 
 > Clean hero section, feature highlights, statistics, sponsors, and a professional footer — all optimized for different screen sizes.
-> 
-
----
 
 ## 🚀 Future Improvements
 
@@ -76,8 +62,6 @@ architecture-landing-page/
 - Improve accessibility (ARIA labels, contrast)
 - Convert to a React / Tailwind version
 - Add dark mode
-
----
 
 ## 👤 Author
 
